@@ -62,7 +62,7 @@ class _SideBarState extends State<SideBar> {
                   }),
             ),
             Container(
-              margin: EdgeInsets.only(top: 190),
+              margin: EdgeInsets.only(top: 170),
               child: ListTile(
                 title: Center(
                   child: Text("github.com/stefanusong",
