@@ -5,4 +5,4 @@ A simple website built with Flutter, implementing Bloc State management to handl
 Website URL : https://stefanusong.github.io/covidtracker/
 
 ## Preview
-
+![alt text](https://raw.githubusercontent.com/stefanusong/covidtracker/main/assets/web_preview.png "Web Preview")
